@@ -36,21 +36,13 @@ TTY::recognizeIndividualKeyPresses(true);
 
 ### What now?
 
-After you do this, the following code will just work without having to press Enter:
+After you run `TTY::recognizeIndividualKeyPresses(true)`, the following code will just work without having to press Enter:
 
 ```c++
-#include <iostream>
-
-int main() {
-
-  char c;
 
   std::cerr << "Enter a single character, but do not press Enter: ";
 
   std::cin >> c;
 
   std::cout << "You pressed the character with underlying representation " << int{c} << "\n";  
-
-  return 0;
-}
 ```
