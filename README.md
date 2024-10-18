@@ -49,4 +49,4 @@ After you run `TTY::recognizeIndividualKeyPresses(true)`, the following code wil
 
 ## Credits
 
-Adapted from [credits/original-stack-overflow-answer.c++] by ssinfod on [StackOverflow](https://stackoverflow.com/a/33201364):
+Adapted from credits/original-stack-overflow-answer.c++ by ssinfod on [StackOverflow](https://stackoverflow.com/a/33201364):
