@@ -1,4 +1,8 @@
-// From https://stackoverflow.com/a/33201364
+// Copyright 2025 Stack Overflow user ssinfod (https://stackoverflow.com/users/3585723/ssinfod)
+//
+// Made available at https://stackoverflow.com/a/33201364
+//
+// Under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)
 
 // kbhit
 #include <stdio.h>
